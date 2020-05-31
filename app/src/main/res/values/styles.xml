@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MySwitchStyle">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:minHeight">80dp</item>
+        <item name="android:colorControlActivated">#7e6685</item>
+        <item name="android:thumbTextPadding">20dp</item>
+        <item name="android:drawablePadding">15dp</item>
+
+    </style>
+
+    <style name="switchTextAppearance">
+        <item name="android:textColor">#DA0000</item>
+    </style>
+
+
+
+</resources>

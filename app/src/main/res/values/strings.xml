@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kitchen-Gloves App</string>
+    <string name="title_home">Glowica</string>
+    <string name="title_dashboard">Tryby</string>
+    <string name="title_notifications">Obroty</string>
+    <string name="on_off">OFF/ON</string>
+    <string name="pinfield">pinfield</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

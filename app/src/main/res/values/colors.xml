@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#546576</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#E0CEE0</color>
+    <color name="switchcolor">#4C998F</color>
+    <color name="my_switch_color">#FFFFFF</color>
+</resources>
