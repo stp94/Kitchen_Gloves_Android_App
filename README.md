@@ -5,3 +5,4 @@ It's only few switch, which "controlled" glove elements.
 Added PIN funcionality to enable "obroty" mode
 Simple voice command to ON/OFF glove
 
+<img src="telefony.jpg"></img>
